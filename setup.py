@@ -30,6 +30,7 @@ setup(
     include_package_data=True,
     # add package dependencies
     install_requires=[
-        'spacy'
+        'spacy',
+        'pronto'
     ],
 )
