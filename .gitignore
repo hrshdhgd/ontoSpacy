@@ -1,3 +1,4 @@
 dist/*
 ontoSpacy.egg-info/*
 *.tsv
+*.pickle
