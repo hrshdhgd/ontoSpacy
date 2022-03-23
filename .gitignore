@@ -2,3 +2,4 @@ dist/*
 ontoSpacy.egg-info/*
 *.tsv
 *.pickle
+notebooks/.DS_Store
